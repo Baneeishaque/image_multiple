@@ -1,0 +1,16 @@
+{
+  "name": "ndk/multiple_images",
+  "description": "Upload multiple images",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Banee Ishaque K",
+      "email": "baneeishaque@gmail.com"
+    }
+  ],
+  "require": {
+    "filp/whoops": "1.1.10",
+    "symfony/var-dumper": "v2.8.44"
+  }
+}
